@@ -1,0 +1,7 @@
+This script connects to the Polkadot network and retrieves the balance of a specified account. It uses the @polkadot/api and @polkadot/keyring packages to establish a connection, retrieve the account balance, and log it to the console.
+
+To use the script, replace the address variable with the actual Polkadot account address for which you want to check the balance.
+
+Please ensure you have the necessary dependencies installed, including the @polkadot/api and @polkadot/keyring packages, before running the script.
+
+Feel free to modify and customize the script to suit your specific needs, such as fetching additional account details or performing other operations on the Polkadot network.

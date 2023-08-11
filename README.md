@@ -1,5 +1,5 @@
 # Polkadot-Balance-Checker-Script
-This script allows you to connect to the Polkadot network and retrieve the balance of a specified account
+This script allows you to connect to the Polkadot network and retrieve the balance of a specified account.
 const { ApiPromise, WsProvider } = require('@polkadot/api');
 const { Keyring } = require('@polkadot/keyring');
 

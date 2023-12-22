@@ -10,7 +10,7 @@ async function connectToPolkadot() {
 
   // Create an instance of ApiPromise using the WsProvider
   const api = await ApiPromise.create({ provider });
-
+ 
   return api;
 }
 

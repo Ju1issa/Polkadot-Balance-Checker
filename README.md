@@ -35,7 +35,7 @@ async function getAccountBalance(address) {
   const address = '5E5hG7gfUq3J2p6wKZYFUDYs7CfnkT5bNwL7x9D6Y4sL6cUJ';
 
   // Get the balance of the specified account
-  const balance = await getAccountBalance(address);
+  const balance = await getAccountBalance(address); 
 
   console.log(`Account Balance: ${balance}`);
 })();

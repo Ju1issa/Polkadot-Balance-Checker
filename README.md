@@ -40,4 +40,4 @@ async function getAccountBalance(address) {
   console.log(`Account Balance: ${balance}`);
 })();
 
-# Polkadot-Balance-Checker_Script   
+# Polkadot-Balance-Checker_Script
